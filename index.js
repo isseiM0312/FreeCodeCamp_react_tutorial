@@ -1,4 +1,7 @@
 ReactDOM.render(
-    <h1>Hello,World!</h1>,
+    <ul>
+        <li>1</li>
+        <li>2</li>
+    </ul>,
     document.getElementById("root")
 )
